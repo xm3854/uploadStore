@@ -18,11 +18,19 @@ BackEnd
 
 ## WireFrame/FlowChart
 
+FrontEnd
 LoggedIn FlowChart
 ![Project4LoggedIn](./LoggedIn.png)
 
 NotLoggedIn FlowChart
 ![Project4NotLoggedIn](./NotLoggedIn.png)
+
+BackEnd
+PlaceSchema
+![Project4PlaceSchema](./PlaceSchema.png)
+
+UserSchema
+![Project4UserSchema](./UserSchema.png)
 
 ## User Stories
 

@@ -8,6 +8,8 @@ The objective of creating this app is to understand how to create an uploading f
 
 ## Technical Used
 
+MERN (Mongo, Express, React, Node)
+
 FrontEnd
 
 - React, React Router Dom5, JavaScript.
@@ -19,18 +21,20 @@ BackEnd
 ## WireFrame/FlowChart
 
 FrontEnd
-LoggedIn FlowChart
-![Project4LoggedIn](./LoggedIn.png)
 
-NotLoggedIn FlowChart
-![Project4NotLoggedIn](./NotLoggedIn.png)
+- LoggedIn FlowChart
+  ![Project4LoggedIn](./LoggedIn.png)
+
+- NotLoggedIn FlowChart
+  ![Project4NotLoggedIn](./NotLoggedIn.png)
 
 BackEnd
-PlaceSchema
-![Project4PlaceSchema](./PlaceSchema.png)
 
-UserSchema
-![Project4UserSchema](./UserSchema.png)
+- PlaceSchema
+  ![Project4PlaceSchema](./PlaceSchema.png)
+
+- UserSchema
+  ![Project4UserSchema](./UserSchema.png)
 
 ## User Stories
 
